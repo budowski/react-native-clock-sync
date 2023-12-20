@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/artem-russkikh/react-native-clock-sync#readme",
   "dependencies": {
-    "react-native-ntp-client": "^1.0.3"
+    "react-native-ntp-client": "git+https://github.com/budowski/react-native-ntp-client.git"
   },
   "devDependencies": {
     "eslint": "^5.9.0",
